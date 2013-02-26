@@ -1,5 +1,6 @@
 # This code is copyright Aaron Shaw ( @shawaj2 )under GPL v2
-# This code is derived from scratch_gpio_handler by Simon Walters also under GPL v2
+# This code is derived from the scratch_gpio_handler by Simon Walters
+# which is also licensed under GPL v2
 # This code is derived from scratch_handler by Thomas Preston
 # Version 5dev 11Aug08 Much better looping supplied by Stein @soilandreyes
 # and someone else @MCrRaspJam who've name I've forgotton!
@@ -17,7 +18,7 @@
 # V0.8b - Add in all pins and try to make in/out configurable and fix input bug
 # v0.9c Ultrasonic and better handling of motor variable values
 # v1.0  Tidy up Ultrasonic
-# v1.1 Add LEDborg PWM support
+# v1.1 Add LEDborg PWM support (26/02/13)
 
 
 from array import *
